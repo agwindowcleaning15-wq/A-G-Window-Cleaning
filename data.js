@@ -27,7 +27,7 @@ const businessData = {
     periods: [
       {
         dates: "May 22nd- August 1st",
-        hours: "12:00 PM — 5:00 PM"
+        hours: "12:00 PM — 6:00 PM"
       }
     ]
   },
