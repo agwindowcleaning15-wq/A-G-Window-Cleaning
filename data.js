@@ -26,10 +26,6 @@ const businessData = {
     days: "Monday — Saturday",
     periods: [
       {
-        dates: "Ma – May 22nd",
-        hours: "12:00 PM — 5:00 PM"
-      },
-      {
         dates: "May 22nd- August 1st",
         hours: "12:00 PM — 5:00 PM"
       }
